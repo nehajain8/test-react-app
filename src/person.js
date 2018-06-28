@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Person from './person.js';
 
 class Person extends Component {
   constructor(props){
